@@ -10,3 +10,4 @@
 		<p>I have done retail and looking forward to my new opportunity   </p>
 		<img src="image/michelle.jpg"/>
 	</body>
+</html>
